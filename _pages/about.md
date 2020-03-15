@@ -3,11 +3,6 @@ layout: page
 title: About Me
 permalink: /about/
 ---
----
-
-# **ABOUT ME**
-
----
 
 I am a third year undergraduate student of Computer Science and Engineering from Dwarkadas J. Sanghvi College of Engineering, Mumbai, India. I am comfortable and fluent with programming languages like Python, Java, C and JavaScript. 
 
