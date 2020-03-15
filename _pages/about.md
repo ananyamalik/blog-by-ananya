@@ -23,5 +23,5 @@ Another one of my passions is my love of writing. Currently I am the Vice Chairp
 
 ---
 
- Writing I believe, is one of the most expressive form of communicating one's emotion, and often I find myself compelled to write, but the same matter finds no audience. Thus, this blog. I hope to create this as a medium through which I can abridge my love for tech into words that I know best. 
+Writing I believe, is one of the most expressive form of communicating one's emotion, and often I find myself compelled to write, but the same matter finds no audience. Thus, this blog. I hope to use this as a medium through which I can abridge my love for tech into words that I know best. 
 
